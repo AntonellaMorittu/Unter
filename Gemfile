@@ -19,6 +19,7 @@ group :development, :test do
   gem 'cucumber-rails', require: false
   gem 'database_cleaner'
   gem 'rspec-rails'
+  gem 'coveralls', require: false
 end
 
 
